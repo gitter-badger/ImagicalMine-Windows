@@ -1,4 +1,6 @@
 # ImagicalMine x86(32-bit) Windows Launcher
+
+[![Join the chat at https://gitter.im/ImagicalMine/ImagicalMine-Windows](https://badges.gitter.im/ImagicalMine/ImagicalMine-Windows.svg)](https://gitter.im/ImagicalMine/ImagicalMine-Windows?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PHP 7-based ImagicalMine launcher (for Win x86)\
 
 You will need Visual Studio C++ Redistributable 2015 installed.
